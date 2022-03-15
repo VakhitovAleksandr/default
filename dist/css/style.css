@@ -1,9 +1,0 @@
-body {
-  background: red;
-}
-
-@media (max-width: 900px) {
-  body {
-    background: #333;
-  }
-}

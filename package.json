@@ -14,7 +14,9 @@
   },
   "devDependencies": {
     "browser-sync": "^2.27.7",
+    "compress-images": "^2.0.5",
     "del": "^6.0.0",
+    "gifsicle": "^5.3.0",
     "gulp-autoprefixer": "^8.0.0",
     "gulp-clean-css": "^4.3.0",
     "gulp-concat": "^2.6.1",
@@ -24,6 +26,7 @@
     "gulp-sass": "^5.1.0",
     "gulp-uglify": "^3.0.2",
     "gulp-uglify-es": "^3.0.0",
+    "pngquant-bin": "^6.0.0",
     "sass": "^1.49.9",
     "sass-rem": "^3.0.0"
   },
